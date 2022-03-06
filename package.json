@@ -1,0 +1,19 @@
+{
+  "name": "closure_and_scope",
+  "version": "1.0.0",
+  "description": "Clase platzi de Closures and Scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cevm22/closure_and_scope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cevm22/closure_and_scope/issues"
+  },
+  "homepage": "https://github.com/cevm22/closure_and_scope#readme"
+}
